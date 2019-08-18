@@ -12,6 +12,8 @@ Each alias is layed out in the following template:
 ```gitconfig
 [alias]
 
+    ...
+    
     #####
     # Short description on a single line.
     aliasName = "command"
